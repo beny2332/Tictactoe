@@ -8,8 +8,8 @@
     
 }
 
-.registerLoginName,
-.registerLoginPassword,
+.registerName,
+.registerPassword,
 .registerGmail {
     border-radius: 8px;
     height: 20px;
@@ -17,10 +17,8 @@
     text-align: center;
 }
 
-.createFromLogin{
-    margin-top: 45px;
-}
-.okLogin{
+
+.okRegister{
     width: 100px;
     height: 25px;
     margin-top: 22px;
