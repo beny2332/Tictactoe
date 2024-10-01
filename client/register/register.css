@@ -1,0 +1,28 @@
+.register{
+    margin-top: 100px;
+    border: 1px solid black;
+    width: 600px;
+    height: 450px;
+    text-align: center;
+    margin-left: 500px;
+    
+}
+
+.registerLoginName,
+.registerLoginPassword,
+.registerGmail {
+    border-radius: 8px;
+    height: 20px;
+    width: 60%;
+    text-align: center;
+}
+
+.createFromLogin{
+    margin-top: 45px;
+}
+.okLogin{
+    width: 100px;
+    height: 25px;
+    margin-top: 22px;
+    background-color: green;
+}
